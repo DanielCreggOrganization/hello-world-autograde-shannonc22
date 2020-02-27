@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test Output Text",
+      "setup": "javac *.java",
+      "run": "java HelloWorld",
+      "input": "",
+      "output": "Hello World",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}
